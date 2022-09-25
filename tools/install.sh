@@ -1,7 +1,6 @@
 #!/bin/sh
 
-cat /app/flag
-sh
+cat /app/flag.txt
 
 #
 # This script should be run via curl:
